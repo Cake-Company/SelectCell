@@ -30,7 +30,7 @@ Sub Main()
         
         .HasLegend = False
         .HasTitle = True
-        .ChartTitle.Text = "aaaaa"
+        .ChartTitle.Text = "bbbb"
     End With
 
 End Sub
